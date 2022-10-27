@@ -1,0 +1,17 @@
+[
+  {
+    "name": "RIG 1",
+    "price": 500,
+    "id": 1
+  },
+  {
+    "name": "RIG 2",
+    "price": 750,
+    "id": 2
+  },
+  {
+    "name": "RIG 3",
+    "price": 920,
+    "id": 3
+  }
+]
